@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronaldxaraujo
 - 👀 I’m interested in programming, church and basketball.
-- 🌱 I’m currently learning Language C, python and a bit of JavaScript. 
+- 🌱 I’m currently learning Python. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - E-mail- ronaldmartins95@gmail.com
